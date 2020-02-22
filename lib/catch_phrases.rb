@@ -11,4 +11,5 @@ def toadstool
 end
 
 def link 
-  phare= ""
+  phare= "It's Dangerous To Go Alone! Take This."
+end
